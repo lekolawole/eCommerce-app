@@ -1,14 +1,18 @@
 # eCommerce
- 
+ A fullstack eCommerce app using Sanity and Next.js.
+
+## Features
+- Payments with stripe
+- API built with Sanity
 
 ## Tech Specifications 
-<ol>
+<ul>
 <li>React</li>
 <li>Sanity</li>
 <li>Next.js</li>
-<li>Stripe</li>
-</ol>
+ <li>Deployed with Vercel</li>
+</ul>
 
-### Deployment 
-run npm run dev in Ecommerce/ecommerce/
-run sanity start in Ecommerce/ecommerce/sanity_ecommerce
+### App is live!
+Check it out <a href="https://e-commerce-app-pearl.vercel.app">here</a>
+
