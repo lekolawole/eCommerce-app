@@ -16,3 +16,6 @@
 ### App is live!
 Check it out <a href="https://e-commerce-app-pearl.vercel.app">here</a>
 
+#### Credits
+This app was built from scratch with the instruction of <a href="https://github.com/adrianhajdin/ecommerce_sanity_stripe">JavaScript Mastery</a>.
+
