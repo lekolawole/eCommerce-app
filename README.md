@@ -6,6 +6,7 @@
 <li>React</li>
 <li>Sanity</li>
 <li>Next.js</li>
+<li>Stripe</li>
 </ol>
 
 ### Deployment 
