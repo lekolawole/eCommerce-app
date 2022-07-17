@@ -1,16 +1,22 @@
-# eCommerce
+# Boost Online Store | eCommerce app
  A fullstack eCommerce app using Sanity and Next.js.
+ 
+<img src='https://github.com/lekolawole/eCommerce-app/blob/main/ecommerce/public/homepage.png?raw=true' width='650' alt='banner' />
 
-## Features
+## Objective 
+This app was developed with React and Next.js, providing users with friendly navigable UI and easy payment options with Stripe. With an API built using Sanity, product management is easily customizable and flexible. 
+
+## Key Features
 - Payments with stripe
-- API built with Sanity
+- API management with Sanity
+- Friendly UI
 
 ## Tech Specifications 
 <ul>
 <li>React</li>
 <li>Sanity</li>
 <li>Next.js</li>
- <li>Deployed with Vercel</li>
+<li> Responsive Design</li>
 </ul>
 
 ### App is live!
